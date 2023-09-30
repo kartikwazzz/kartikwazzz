@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @kartikwazzz
-- 👀 I’m interested in learning.
-- 🌱 I’m currently learning python.
-- 💞️ I’m looking to collaborate on anything as long as i can learn and apply my knowledge.
+- 👀 I’m interested in...
+- 🌱 I’m currently learning...
+- 💞️ I’m looking to collaborate on...
 
 
 <!---
